@@ -1,0 +1,10 @@
+background{
+    background-image: url("bot_img/bot-img");
+    size: 169 * 140px;
+    aspect-ratio: 13/8;
+    padding: auto;
+    margin-top: 85%;
+    margin-bottom: 8%;
+    margin-left: 85%;
+   
+   } 
